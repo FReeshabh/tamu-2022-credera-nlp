@@ -1,5 +1,2 @@
 ,Name,Invoice ID,Invoice date,Invoice Due date,Billing Address,Shipping Addresss,Billing Amount,Other Information
-0,JANE SMITH,JANE SMITH,"April 25, 2011","April 25, 2011",$50.00,"MS
-Payment Reminder
-ARTS
-MANAGEMENT",$500.00,context
+0,Inc,Copyright © 2018 Apple Inc,"May 27, 2018",99.99,99.99,119204351845,$99.99,context

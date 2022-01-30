@@ -41,17 +41,17 @@ def HGExtractFromText(context):
     toPandas.to_csv("BAHHHHHHHH.csv")
 
 
-"""
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("context", help="the context")
     args = parser.parse_args()
-    HGExtractFromText(args.context)
-"""
+    with open(args.context) as f:
+        lines = f.readlines()
+    HGExtractFromText(r'{}'.format(lines))
+    
+#HGExtractFromText(context)
 
-context = r"""
-
-
+context = """
 
 "MS
 Payment Reminder
@@ -552,8 +552,4 @@ Calgary AB T2A OP9
 
 "OP9"
 
-
-
-
 """
-HGExtractFromText(context)
