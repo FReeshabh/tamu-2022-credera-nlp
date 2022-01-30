@@ -1,0 +1,230 @@
+
+"Receipt
+APPLE ID
+BLLED TO
+Store Credit
+Rhonda Lanyon
+210 smith st apt11
+Lowell, MA 01851-3829
+DATE
+TOTAL
+May 27, 2018
+$99.99
+ORDER ID
+DOCUMENT NO
+USA
+MMYXOD9MT8
+119204351845
+App Store
+TYPE
+PURCHASED FROM
+PRICE
+Lineage 2: Revolution,
+4000 Diamond
+In-App
+Purchase
+iPhone
+$99.99
+netmarble
+Report a Problem
+Subtotal $99.99
+Tax $0.00
+TOTAL
+$99.99
+If you didn't make this purchase or if you believe an unauthorized person is attempting to access
+your account, click here to cancel your purchase.
+Apple ID Summary · Terms
+ale · Privacy
+Copyright © 2018 Apple Inc.
+All rights reserved
+"
+
+"Receipt"
+
+"APPLE"
+
+"ID"
+
+"BLLED"
+
+"TO"
+
+"Store"
+
+"Credit"
+
+"Rhonda"
+
+"Lanyon"
+
+"210"
+
+"smith"
+
+"st"
+
+"apt11"
+
+"Lowell,"
+
+"MA"
+
+"01851-3829"
+
+"DATE"
+
+"TOTAL"
+
+"May"
+
+"27,"
+
+"2018"
+
+"$99.99"
+
+"ORDER"
+
+"ID"
+
+"DOCUMENT"
+
+"NO"
+
+"USA"
+
+"MMYXOD9MT8"
+
+"119204351845"
+
+"App"
+
+"Store"
+
+"TYPE"
+
+"PURCHASED"
+
+"FROM"
+
+"PRICE"
+
+"Lineage"
+
+"2:"
+
+"Revolution,"
+
+"4000"
+
+"Diamond"
+
+"In-App"
+
+"Purchase"
+
+"iPhone"
+
+"$99.99"
+
+"netmarble"
+
+"Report"
+
+"a"
+
+"Problem"
+
+"Subtotal"
+
+"$99.99"
+
+"Tax"
+
+"$0.00"
+
+"TOTAL"
+
+"$99.99"
+
+"If"
+
+"you"
+
+"didn't"
+
+"make"
+
+"this"
+
+"purchase"
+
+"or"
+
+"if"
+
+"you"
+
+"believe"
+
+"an"
+
+"unauthorized"
+
+"person"
+
+"is"
+
+"attempting"
+
+"to"
+
+"access"
+
+"your"
+
+"account,"
+
+"click"
+
+"here"
+
+"to"
+
+"cancel"
+
+"your"
+
+"purchase."
+
+"Apple"
+
+"ID"
+
+"Summary"
+
+"·"
+
+"Terms"
+
+"ale"
+
+"·"
+
+"Privacy"
+
+"Copyright"
+
+"©"
+
+"2018"
+
+"Apple"
+
+"Inc."
+
+"All"
+
+"rights"
+
+"reserved"
