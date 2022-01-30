@@ -3,7 +3,7 @@ import pandas as pd
 from transformers import pipeline
 import argparse
 
-def HGExtractFromText(context):
+def HGExtractFromText(context, filename):
     
     question_answerer = pipeline("question-answering")
     
@@ -38,7 +38,7 @@ def HGExtractFromText(context):
         'Other Information': OtherInformationHG['answer'],
     }
     toPandas = pd.DataFrame(changeToDict, index=[0])
-    toPandas.to_csv("BAHHHHHHHH.csv")
+    toPandas.to_csv("output-csvs/"+filename+".csv")
 
 
 if __name__ == "__main__":
@@ -47,7 +47,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     with open(args.context) as f:
         lines = f.readlines()
-    HGExtractFromText(r'{}'.format(lines))
+    HGExtractFromText(r'{}'.format(lines), args.context)
     
 #HGExtractFromText(context)
 
